@@ -202,8 +202,3 @@ LMUData/
 └── Creation_MMBench.xlsx
 ```
 
-### Note on Creation-MMBench
-
-The released `Creation_MMBench` file is the **Qwen baseline output** used in our evaluation pipeline.
-
-If you use the released assets directly, please make sure the extracted files are placed at the expected locations in your local environment before running evaluation.
