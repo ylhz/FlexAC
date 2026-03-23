@@ -166,3 +166,44 @@ If you find this project useful, please cite our paper:
   year={2025}
 }
 ```
+
+---
+
+## Additional Downloads
+
+Due to GitHub repository size limits, the released **datasets** and **general vectors** are provided as **release assets** instead of being stored directly in this repository.
+
+Please download the required files from the GitHub Release page and place them in the correct locations before running the code.
+
+### Released Assets
+
+The current release includes the following attachments:
+
+- `general_vector.part1.rar`
+- `general_vector.part2.rar`
+- `general_vector.part3.rar`
+- `VDAT_Dataset.rar`
+- `Creation_MMBench.rar`
+
+### Where to Place the Files
+
+- The extracted `general_vector` folder should be placed under the **repository root**, i.e.:
+
+```text
+FlexAC/
+└── general_vector/
+```
+
+- The extracted datasets should be placed under the `LMUData` directory.
+
+```text
+LMUData/
+├── VDATDataset_v2.tsv
+└── Creation_MMBench.xlsx
+```
+
+### Note on Creation-MMBench
+
+The released `Creation_MMBench` file is the **Qwen baseline output** used in our evaluation pipeline.
+
+If you use the released assets directly, please make sure the extracted files are placed at the expected locations in your local environment before running evaluation.
