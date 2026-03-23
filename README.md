@@ -142,15 +142,12 @@ FlexAC is designed to support **both ends** of associative control:
 ![Table 1](assets/Table1.png)
 
 
-> Table 1 compares FlexAC against regular decoding and prior hallucination mitigation baselines on CHAIR and POPE. In the Qwen-VL setting, FlexAC substantially reduces hallucination while maintaining competitive overall capability.
-
 ### Table 3: Creation-MMBench
 
 
 ![Table 3](assets/Table3.png)
 
 
-> Table 3 reports results on Creation-MMBench across four subcategories: Literary Writing, Creative Multimodal Understanding, Professional Functional Writing, and Common Functional Writing. FlexAC improves creative reward while preserving competitive visual fidelity.
 
 ---
 
