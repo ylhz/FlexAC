@@ -148,24 +148,6 @@ FlexAC is designed to support **both ends** of associative control:
 ![Table 3](assets/Table3.png)
 
 
-
----
-
-## Citing this work
-
-If you find this project useful, please cite our paper:
-
-```bibtex
-@article{lyu2025flexac,
-  title={FlexAC: Towards Flexible Control of Associative Reasoning in Multimodal Large Language Models},
-  author={Lyu, Xinyu and Wang, Shuailong and Yuan, Shengming and Chen, Beitao and Song, Jingkuan and Gao, Lianli},
-  journal={arXiv preprint arXiv:2510.11190},
-  year={2025}
-}
-```
-
----
-
 ## Additional Downloads
 
 Due to GitHub repository size limits, the released **datasets** and **general vectors** are provided as **release assets** instead of being stored directly in this repository.
@@ -199,3 +181,22 @@ LMUData/
 └── Creation_MMBench.xlsx
 ```
 
+
+
+
+---
+
+## Citing this work
+
+If you find this project useful, please cite our paper:
+
+```bibtex
+@article{lyu2025flexac,
+  title={FlexAC: Towards Flexible Control of Associative Reasoning in Multimodal Large Language Models},
+  author={Lyu, Xinyu and Wang, Shuailong and Yuan, Shengming and Chen, Beitao and Song, Jingkuan and Gao, Lianli},
+  journal={arXiv preprint arXiv:2510.11190},
+  year={2025}
+}
+```
+
+---
