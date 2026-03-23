@@ -191,11 +191,13 @@ LMUData/
 If you find this project useful, please cite our paper:
 
 ```bibtex
-@article{lyu2025flexac,
-  title={FlexAC: Towards Flexible Control of Associative Reasoning in Multimodal Large Language Models},
-  author={Lyu, Xinyu and Wang, Shuailong and Yuan, Shengming and Chen, Beitao and Song, Jingkuan and Gao, Lianli},
-  journal={arXiv preprint arXiv:2510.11190},
-  year={2025}
+@inproceedings{
+yuan2025flexac,
+title={Flex{AC}: Towards Flexible Control of Associative Reasoning in Multimodal Large Language Models},
+author={Shengming Yuan and Xinyu Lyu and Shuailong Wang and Beitao Chen and Jingkuan Song and Lianli Gao},
+booktitle={The Thirty-ninth Annual Conference on Neural Information Processing Systems},
+year={2025},
+url={https://openreview.net/forum?id=RbGUML7YK6}
 }
 ```
 
